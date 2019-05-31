@@ -1,0 +1,56 @@
+*{
+  text-align: center;
+}
+h1{
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.navigation a{
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+.navigation2 a{
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+footer{
+  text-align: left;
+}
+#bgphoto, #bphoto{
+  background-image: url("F:/Projects/Broadway/resources/photos/building.png");
+}
+.navigation2 span{
+    background-color: dimgray;
+    font-family: helvetica;
+    font-size: 11px;
+    color: white;
+}
+.navigation2{
+  background-color: dimgray;
+}
+p{
+  font-family: helvetica;
+  font-size: 14px;
+}
+#bphoto{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
